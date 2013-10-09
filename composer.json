@@ -1,0 +1,24 @@
+{
+    "name": "lonnieezell/my_controller",
+    "description": "A flexible MY_Controller for your CodeIgniter applications with simple template engine and many convenience features.",
+    "license": "MIT",
+    "keywords": [
+        "codeigniter", "controller", "core"
+    ],
+    "authors": [
+        {
+            "name": "Lonnie Ezell",
+            "email": "lonnieezell@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "homepage": "http://lonnieezell.github.io/my_controller/",
+    "support": {
+        "issues": "http://lonnieezell.github.io/my_controller/issues",
+        "source": "http://lonnieezell.github.io/my_controller/"
+    },
+    "type": "codeigniter-core",
+    "require": {
+        "compwright/codeigniter-installers": "*"
+    }
+}
